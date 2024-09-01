@@ -1,5 +1,8 @@
 package easy
 
+/**
+ * https://leetcode.com/problems/convert-1d-array-into-2d-array/description/?envType=daily-question&envId=2024-09-01
+ */
 class Solution_2022 {
     fun construct2DArray(original: IntArray, m: Int, n: Int): Array<IntArray> {
 
